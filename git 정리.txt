@@ -1,0 +1,12 @@
+git 주소 : http://github.com/yjy9555/aubeee.git
+
+* git 용어
+push 전엔 pull이 있다!
+<pull>
+- git status : 현재 git과 상태를 체크
+- git add . : 변경된 파일들을 모두 트랙킹
+- git commit -m "message" : 인식 할 수 있는 commit을 달아줌
+- git push origin +master : 실제로 git에 push
+<push>
+- git pull origin master
+ 
